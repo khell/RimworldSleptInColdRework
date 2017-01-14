@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ThoughtDefs>
+    <ThoughtDef>
+		<defName>SleptInCold</defName>
+		<durationDays>0.5</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>slept in clothes</label>
+				<description>It was so cold I had to sleep with my clothes on. We really need some heaters.</description>
+				<baseMoodEffect>-2</baseMoodEffect>
+			</li>
+            <li>
+				<label>slept in clothes uncomfortably</label>
+				<description>It was so cold I had to sleep with my clothes on and I was still cold! Where are the heaters?</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+            <li>
+				<label>slept in near death conditions</label>
+				<description>Even my clothes weren't enough to keep me from nearly freezing to death in my sleep.</description>
+				<baseMoodEffect>-8</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+</ThoughtDefs>

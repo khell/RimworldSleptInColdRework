@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<sleptColdThoughtSettingHandle1_title>Mood Effect 1</sleptColdThoughtSettingHandle1_title>
+	<sleptColdThoughtSettingHandle1_desc>The effect on mood of the "Slept in clothes" debuff.</sleptColdThoughtSettingHandle1_desc>
+	<sleptColdThoughtSettingHandle2_title>Mood Effect 2</sleptColdThoughtSettingHandle2_title>
+	<sleptColdThoughtSettingHandle2_desc>The effect on mood of the "Slept in clothes uncomfortably" debuff.</sleptColdThoughtSettingHandle2_desc>
+	<sleptColdThoughtSettingHandle3_title>Mood Effect 3</sleptColdThoughtSettingHandle3_title>
+	<sleptColdThoughtSettingHandle3_desc>The effect on mood of the "Slept in near freezing conditions" debuff.</sleptColdThoughtSettingHandle3_desc>
+</LanguageData>

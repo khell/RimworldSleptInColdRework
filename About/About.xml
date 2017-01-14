@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Slept in the Cold Rework</name>
+    <author>Khell</author>
+    <targetVersion>0.16.1393</targetVersion>
+    <description>REQUIRES THE FANTASTIC HUGSLIB.
+
+When colonists sleep, they receive the "Slept in the Cold" debuff based on if they weren't wearing all of their clothing. The room can be 10C and you can be insulated up to -127C and still receive the "Slept in Cold" as apparently colonists would prefer to be cold even when it is within their means to sleep comfortably.
+
+This mod changes this behaviour so that they do in fact wear their clothes to sleep. Instead of slept in cold, there are now three stages of increasingly worsening debuffs:
+
+- Slept in Clothes (-2), when the room is below the original threshold.
+- Slept in Clothes Uncomfortably (-5), when the room is 70% below their Gear's minimum comfortable temperature.
+- Slept in Near Death Conditions (-8). when the room is 100% below their Gear's minimum comfortable temperature.
+
+The following static method has been detoured:
+RimWorld.Toils_LayDown.LayDown</description>
+</ModMetaData>
